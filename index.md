@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as a personal website for Maxwell Gray. Maxwell Gray is a digital scholarship librarian at <a href="[http://dangrover.com](https://www.marquette.edu/library/directory/max-gray.php)">Raynor Memorial Libraries</a> at Marquette University.
+  Welcome! This site serves as a personal website for Maxwell Gray. Maxwell Gray is a digital scholarship librarian at [Raynor Memorial Libraries](https://www.marquette.edu/library/directory/max-gray.php) at Marquette University.
 </p>
 
 <p>
