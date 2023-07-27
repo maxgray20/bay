@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! This site serves as a personal website for Maxwell Gray. Maxwell Gray is a digital scholarship librarian at <a href="[http://dangrover.com](https://www.marquette.edu/library/directory/max-gray.php)">Raynor Memorial Libraries</a> at Marquette University.
 </p>
 
 <p>
